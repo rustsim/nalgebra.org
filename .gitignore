@@ -10,3 +10,6 @@ docs/rustdoc
 docs/rustdoc_glm
 site
 .idea
+.docusaurus
+build
+node_modules
